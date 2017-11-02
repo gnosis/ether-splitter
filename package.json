@@ -1,0 +1,32 @@
+{
+  "name": "@gnosis.pm/ether-splitter",
+  "version": "0.1.0",
+  "description": "Smart contract which splits ether",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-with-testrpc -l 7000000 'truffle test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnosis/ether-splitter.git"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "ethereum",
+    "ether",
+    "splitter",
+    "multiplex"
+  ],
+  "author": "Alan Lu <alan@gnosis.pm> (gnosis.pm)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gnosis/ether-splitter/issues"
+  },
+  "homepage": "https://github.com/gnosis/ether-splitter#readme",
+  "devDependencies": {
+    "lodash.merge": "^4.6.0",
+    "run-with-testrpc": "^0.2.1",
+    "truffle": "^4.0.1"
+  }
+}
