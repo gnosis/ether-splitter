@@ -27,6 +27,6 @@
   "devDependencies": {
     "lodash.merge": "^4.6.0",
     "run-with-testrpc": "^0.2.1",
-    "truffle": "^4.0.1"
+    "truffle": "^4.1.13"
   }
 }
