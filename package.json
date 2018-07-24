@@ -19,7 +19,7 @@
     "multiplex"
   ],
   "author": "Alan Lu <alan@gnosis.pm> (gnosis.pm)",
-  "license": "GPL-3.0",
+  "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/gnosis/ether-splitter/issues"
   },
